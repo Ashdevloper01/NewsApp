@@ -1,7 +1,10 @@
 
 # NewsApp
 
-### Note : The api is taking time to load, therefore a delay may happen in fetching list
+### Note : 
+1: The api is taking time to load, therefore a delay may happen in fetching list
+2: The api doesnot provide data for more than 1 page for free users, therefore I am recalling the api with same params to get data.
+
 This is a test task, created to provide a demo.
 
 ## Technologies used
