@@ -1,7 +1,7 @@
 
 # NewsApp
 
-### Note : The api is taking time to load, therefore a delay may happen in fething list
+### Note : The api is taking time to load, therefore a delay may happen in fetching list
 This is a test task, created to provide a demo.
 
 ## Technologies used
